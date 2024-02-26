@@ -1,0 +1,21 @@
+.a {
+    max-width: 400px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3), -5px -5px 15px rgba(255,255,255,0.5);
+    margin-bottom: 70px;
+}
+.a img {
+    width: 100%;
+
+}
+
+
+#Phone img {
+width: 100%;
+}
+
+#Phone {
+    max-width: 400PX;
+    margin: auto;
+}
